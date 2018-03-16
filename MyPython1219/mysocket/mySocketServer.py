@@ -3,7 +3,6 @@
 
 #简单并发服务器
 import socketserver
-from idlelib.iomenu import encoding
 
 #创建一个类来继承socketserver下的BaseRequestHandler类
 class MyServer(socketserver.BaseRequestHandler):
@@ -13,7 +12,7 @@ class MyServer(socketserver.BaseRequestHandler):
             # 上面两行代码，等于 conn,addr = socket.accept()，只不过在socketserver模块中已经替我们包装好了。
             #还替我们包装了包括bind()、listen()、accept()方法。
             conn = self.request
-            addr = self.client_address
+            #addr = self.client_address
             while True:
                 accept_data = str(conn.recv(1024), encoding='utf-8')
                 print(accept_data)
