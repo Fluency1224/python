@@ -1,0 +1,108 @@
+.
+├── class
+│   ├── __init__.py
+│   ├── myAbstract.py
+│   ├── myClass.py
+│   ├── myDestructor.py
+│   ├── myInherit.py
+│   └── myInherits.py
+├── demo
+│   ├── __init__.py
+│   ├── myDemo.py
+│   └── __pycache__
+│       ├── demo.cpython-36.pyc
+│       ├── __init__.cpython-36.pyc
+│       ├── myDemo.cpython-36.pyc
+│       └── random.cpython-36.pyc
+├── exception
+│   ├── __init__.py
+│   └── myException.py
+├── main
+│   ├── __init__.py
+│   ├── main.py
+│   ├── myDecorator.py
+│   ├── myFirst.py
+│   ├── myJson.py
+│   ├── myMD5.py
+│   ├── myOnlinefun.py
+│   ├── myRandom.py
+│   ├── myReflect.py
+│   ├── myTime.py
+│   ├── __pycache__
+│   │   ├── __init__.cpython-36.pyc
+│   │   ├── main.cpython-36.pyc
+│   │   ├── MyFirst.cpython-36.pyc
+│   │   ├── myRandom.cpython-36.pyc
+│   │   └── random.cpython-36.pyc
+│   └── test.py
+├── myparamiko
+│   ├── __init__.py
+│   ├── myParamiko.py
+│   └── myTelnet.py
+├── myprocess
+│   ├── __init__.py
+│   ├── myPool.py
+│   ├── myProcess2.py
+│   └── myProcess.py
+├── mypyqt5
+│   ├── __init__.py
+│   └── myFirstGuiQt.py
+├── mysocket
+│   ├── __init__.py
+│   ├── myClient.py
+│   ├── myServer.py
+│   ├── mySocketServer.py
+│   ├── myTFTPClient.py
+│   ├── myTFTPServer.py
+│   ├── myUdpServer.py
+│   └── __pycache__
+│       └── __init__.cpython-36.pyc
+├── mysql
+│   ├── __init__.py
+│   ├── myMysqldelete.py
+│   ├── myMysqlFatchOne.py
+│   ├── myMysqlGetName.py
+│   ├── myMysqlIndex.py
+│   ├── myMysqlInsertMuch.py
+│   ├── myMysqlInsert.py
+│   ├── myMysql.py
+│   └── myMysqlUpdate.py
+├── mythread
+│   ├── __init__.py
+│   ├── myClassThread.py
+│   ├── myLock.py
+│   ├── myProducerConsumer.py
+│   ├── myThreading.py
+│   ├── myThreadLock.py
+│   ├── myThread.py
+│   └── myTreadQueue.py
+├── mytkinter
+│   ├── __init__.py
+│   ├── ironman.jpg
+│   ├── myCanvans.py
+│   ├── myCheckButton.py
+│   ├── myFrame.py
+│   ├── myListBox.py
+│   ├── myLogin.py
+│   ├── myMenubar.py
+│   ├── myMessageBox.py
+│   ├── myPlace.py
+│   ├── myRadioButton.py
+│   ├── myScale.py
+│   ├── myText.py
+│   ├── myTkinter.py
+│   ├── timg.gif
+│   └── title.gif
+├── myweb
+│   ├── __init__.py
+│   ├── myHttp.py
+│   └── myRequest.py
+├── mywebframwork
+│   ├── index.py
+│   └── __init__.py
+├── mywxpython
+│   ├── __init__.py
+│   └── myFirstGui.py
+└── README
+
+17 directories, 88 files
