@@ -21,9 +21,12 @@ while True:
     #创建连接套接字
     fd,addr = sockfd.accept()
     print(str(addr),'已连接','套接字fd=',fd)
-    sleep(10)
-    serverMsg = 'I am server!'
-    fd.send(serverMsg.encode('utf-8'))
     
-    fd.close()
+#     serverMsg = 'I am server!'
+#     fd.send(serverMsg.encode('utf-8'))
+    while True:
+        clientMsg = fd.recv(120)
+        print(clientMsg)
+    
+    #fd.close()
 sockfd.close()
