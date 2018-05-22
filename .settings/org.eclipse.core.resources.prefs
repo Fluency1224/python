@@ -1,4 +1,7 @@
 eclipse.preferences.version=1
+encoding//mypyqt5/myEventOverevent.py=utf-8
+encoding//mypyqt5/myEventQSlider.py=utf-8
+encoding//mypyqt5/myEventSender.py=utf-8
 encoding//mypyqt5/myFirstGuiQt.py=utf-8
 encoding//mypyqt5/myLayoutBoxlayout.py=utf-8
 encoding//mypyqt5/myLayoutMove.py=utf-8
@@ -17,3 +20,4 @@ encoding//mysocket/myClient.py=utf-8
 encoding//mysocket/myServer.py=utf-8
 encoding//mysocket/mySocketServer.py=utf-8
 encoding//mytkinter/myLogin.py=utf-8
+encoding//mytkinter/myScale.py=utf-8
