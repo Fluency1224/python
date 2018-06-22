@@ -106,3 +106,240 @@
 └── README
 
 17 directories, 88 files
+.
+├── class
+│   ├── __init__.py
+│   ├── myAbstract.py
+│   ├── myClass.py
+│   ├── myDestructor.py
+│   ├── myInherit.py
+│   ├── myInherits.py
+│   └── __pycache__
+│       ├── __init__.cpython-36.pyc
+│       ├── myAbstract.cpython-36.pyc
+│       ├── myClass.cpython-36.pyc
+│       ├── myDestructor.cpython-36.pyc
+│       ├── myInherit.cpython-36.pyc
+│       └── myInherits.cpython-36.pyc
+├── demo
+│   ├── __init__.py
+│   ├── myDemo.py
+│   └── __pycache__
+│       ├── demo.cpython-36.pyc
+│       ├── __init__.cpython-36.pyc
+│       ├── myDemo.cpython-36.pyc
+│       └── random.cpython-36.pyc
+├── exception
+│   ├── __init__.py
+│   ├── myException.py
+│   └── __pycache__
+│       ├── __init__.cpython-36.pyc
+│       └── myException.cpython-36.pyc
+├── main
+│   ├── __init__.py
+│   ├── main.py
+│   ├── myDecorator.py
+│   ├── myFirst.py
+│   ├── myJson.py
+│   ├── myMD5.py
+│   ├── myOnlinefun.py
+│   ├── myRandom.py
+│   ├── myReflect.py
+│   ├── myTime.py
+│   ├── __pycache__
+│   │   ├── __init__.cpython-36.pyc
+│   │   ├── main.cpython-36.pyc
+│   │   ├── myDecorator.cpython-36.pyc
+│   │   ├── MyFirst.cpython-36.pyc
+│   │   ├── myJson.cpython-36.pyc
+│   │   ├── myMD5.cpython-36.pyc
+│   │   ├── myOnlinefun.cpython-36.pyc
+│   │   ├── myRandom.cpython-36.pyc
+│   │   ├── myReflect.cpython-36.pyc
+│   │   ├── myTime.cpython-36.pyc
+│   │   ├── random.cpython-36.pyc
+│   │   └── test.cpython-36.pyc
+│   └── test.py
+├── mybaiduaip
+│   ├── image
+│   │   ├── timg (1).jpg
+│   │   ├── timg (2).jpg
+│   │   ├── timg (3).jpg
+│   │   ├── timg (4).jpg
+│   │   └── timg.jpg
+│   ├── __init__.py
+│   ├── mytest.py
+│   └── __pycache__
+│       ├── __init__.cpython-36.pyc
+│       └── mytest.cpython-36.pyc
+├── myhc8000client
+│   ├── __init__.py
+│   ├── mydes.py
+│   ├── __pycache__
+│   │   ├── __init__.cpython-36.pyc
+│   │   ├── mydes.cpython-36.pyc
+│   │   └── server_test.cpython-36.pyc
+│   └── server_test.py
+├── myitchat
+│   ├── __init__.py
+│   ├── itchat.pkl
+│   ├── myItchat.py
+│   ├── mylogin.py
+│   ├── myopenimage.py
+│   ├── myTulingAi.py
+│   └── wxImage.py
+├── myopencv
+│   ├── 3d-image.png
+│   ├── __init__.py
+│   ├── line.png
+│   ├── my3Drawing.py
+│   ├── myarithmetics.py
+│   ├── myLoadingVideoSource.py
+│   ├── myopencvtest.py
+│   ├── myoperations.py
+│   ├── mythresholding6.py
+│   ├── output.avi
+│   └── timg.jpg
+├── myparamiko
+│   ├── __init__.py
+│   ├── myParamiko.py
+│   └── myTelnet.py
+├── myprocess
+│   ├── __init__.py
+│   ├── myPool.py
+│   ├── myProcess2.py
+│   └── myProcess.py
+├── mypyqt5
+│   ├── Burningwidget.py
+│   ├── icon.jpg
+│   ├── __init__.py
+│   ├── myDialogQColorDialog.py
+│   ├── myDialogQFileDialog.py
+│   ├── myDialogQFontDialog.py
+│   ├── myDialogQInputDialog.py
+│   ├── myDragButton.py
+│   ├── myDragsimple.py
+│   ├── myDrawColor.py
+│   ├── myDrawPoints.py
+│   ├── myDrawQBrush.py
+│   ├── myDrawQPen.py
+│   ├── myDrawText.py
+│   ├── myEventall.py
+│   ├── myEventOverevent.py
+│   ├── myEventQSlider.py
+│   ├── myEventSender.py
+│   ├── myFirstGuiQt.py
+│   ├── myLayoutBoxlayout.py
+│   ├── myLayoutMove.py
+│   ├── myLayoutQGridlayout.py
+│   ├── myMenuAll.py
+│   ├── myMenu.py
+│   ├── myMenuStatusbar.py
+│   ├── myMenuToolbar.py
+│   ├── myPyqtCloseWindow.py
+│   ├── myPyqtIcon.py
+│   ├── myPyqtInCenter.py
+│   ├── myPyqtMsgBox.py
+│   ├── myPyqtShowMsg.py
+│   ├── myPyqtWindow.py
+│   ├── myWidgetQCalendarWidget.py
+│   ├── myWidgetQCheckBox.py
+│   ├── myWidgetQComboBox.py
+│   ├── myWidgetQLineEdit.py
+│   ├── myWidgetQPixmap.py
+│   ├── myWidgetQProgressBar.py
+│   ├── myWidgetQSlider.py
+│   ├── myWidgetQSplitter.py
+│   └── myWidgetTogglebutton.py
+├── myscrapy
+│   └── tutorial
+│       ├── scrapy.cfg
+│       └── tutorial
+│           ├── __init__.py
+│           ├── items.py
+│           ├── middlewares.py
+│           ├── pipelines.py
+│           ├── __pycache__
+│           │   ├── __init__.cpython-36.pyc
+│           │   └── settings.cpython-36.pyc
+│           ├── settings.py
+│           └── spiders
+│               ├── domz_spider.py
+│               ├── __init__.py
+│               └── __pycache__
+│                   └── __init__.cpython-36.pyc
+├── mysocket
+│   ├── __init__.py
+│   ├── myClient.py
+│   ├── myServer.py
+│   ├── mySocketServer.py
+│   ├── myTFTPClient.py
+│   ├── myTFTPServer.py
+│   ├── myUdpServer.py
+│   ├── __pycache__
+│   │   └── __init__.cpython-36.pyc
+│   └── UdpServerLora.py
+├── mysql
+│   ├── __init__.py
+│   ├── myMysqldelete.py
+│   ├── myMysqlFatchOne.py
+│   ├── myMysqlGetName.py
+│   ├── myMysqlIndex.py
+│   ├── myMysqlInsertMuch.py
+│   ├── myMysqlInsert.py
+│   ├── myMysql.py
+│   └── myMysqlUpdate.py
+├── mytensorflow
+│   ├── __init__.py
+│   ├── logs
+│   │   └── events.out.tfevents.1521119004.FLUENCY-PC
+│   ├── mnist
+│   │   ├── t10k-images-idx3-ubyte.gz
+│   │   ├── t10k-labels-idx1-ubyte.gz
+│   │   ├── train-images-idx3-ubyte.gz
+│   │   └── train-labels-idx1-ubyte.gz
+│   ├── myCNN.py
+│   ├── mydefaddlayer.py
+│   ├── myplaceholder.py
+│   ├── mysession.py
+│   ├── mytensorboard.py
+│   └── myvariable.py
+├── mythread
+│   ├── __init__.py
+│   ├── myClassThread.py
+│   ├── myLock.py
+│   ├── myProducerConsumer.py
+│   ├── myThreading.py
+│   ├── myThreadLock.py
+│   ├── myThread.py
+│   └── myTreadQueue.py
+├── mytkinter
+│   ├── __init__.py
+│   ├── ironman.jpg
+│   ├── myCanvans.py
+│   ├── myCheckButton.py
+│   ├── myFrame.py
+│   ├── myListBox.py
+│   ├── myLogin.py
+│   ├── myMenubar.py
+│   ├── myMessageBox.py
+│   ├── myPlace.py
+│   ├── myRadioButton.py
+│   ├── myScale.py
+│   ├── myText.py
+│   ├── myTkinter.py
+│   ├── timg.gif
+│   └── title.gif
+├── myweb
+│   ├── __init__.py
+│   ├── myHttp.py
+│   └── myRequest.py
+├── mywebframwork
+│   ├── index.py
+│   └── __init__.py
+├── mywxpython
+│   ├── __init__.py
+│   └── myFirstGui.py
+└── README
+
+35 directories, 199 files
