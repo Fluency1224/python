@@ -9,7 +9,7 @@ import pyDes
 #创建流式套接字
 sockfd = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 #主机名和端口号
-host = '192.168.1.94'
+host = '192.168.1.138'
 port = 32000
 #连接服务器
 sockfd.connect((host,port))
