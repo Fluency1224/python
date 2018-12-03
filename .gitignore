@@ -1,1 +1,7 @@
 /.metadata/
+
+#project file
+.project
+.pydevproject
+.settings
+.idea
